@@ -1,2 +1,2 @@
-# Draft
+# Finals Bracket
 NBA Draft
